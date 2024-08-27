@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Acknowledged, I'll create a form with two text fields.",
+        "message_id": "guest27082024134618",
+        "timestamp": "27082024134620",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "create a form with two text field",
         "message_id": "guest27082024134618",
