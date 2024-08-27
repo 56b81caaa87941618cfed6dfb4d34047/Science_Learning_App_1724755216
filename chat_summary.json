@@ -12,5 +12,11 @@
         "content": "create a form with two text field",
         "timestamp": "27082024134620",
         "message_id": "guest27082024134618"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Acknowledged, I'll create a form with two text fields.",
+        "timestamp": "27082024134620",
+        "message_id": "guest27082024134618"
     }
 ]
